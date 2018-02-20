@@ -6,5 +6,5 @@ return customerName = customerName.toUpperCase();
 }
 
 function bestCustomer() {
-const bestCustomer = 'not bob';
+bestCustomer = 'not bob';
 }
